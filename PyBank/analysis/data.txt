@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------
+number of months:  86
+net total profits/losses: $ 38382578
+Total Average Change: $ -2315
+greatest increase in profits: $ 1926159
+greatest decrease in losses: $ -2196167
