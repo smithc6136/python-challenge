@@ -29,3 +29,5 @@ You will be give a set of poll data called election_data.csv. The dataset is com
 * The percentage of votes each candidate won
 * The total number of votes each candidate won
 * The winner of the election based on popular vote.
+
+In addition, your final script should both print the analysis to the terminal and export a text file with the results.
